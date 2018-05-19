@@ -7,7 +7,7 @@ public class SortStringArray {
 		Arrays.sort(ss);
         for(int i = 0; i < ss.length; i++) {
             System.out.println(ss[i]);
-    }
+            }
 		
 
 	}
