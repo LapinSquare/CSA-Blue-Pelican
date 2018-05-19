@@ -1,0 +1,14 @@
+public class ArithmeticAssignment {
+
+	public static void main(String[] args) { 
+		String a1=("79 + 3 * (4 + 82 - 68) - 7 + 19 = "); 
+		String a2= ("(179 +21 +10) / 7 + 181 = "); 
+		String a3=("10389 * 56 * 11 + 2246 = "); 
+		System.out.println(a1 + (79 + 3 * (4 + 82 - 68) - 7 +19));
+		System.out.println(a2 + ((179 +21 +10) / 7 + 181) );
+		System.out.println(a3 + (10389 * 56 * 11 + 2246));  
+
+
+	}
+
+}
