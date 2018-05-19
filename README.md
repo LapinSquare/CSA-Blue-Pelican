@@ -1,6 +1,6 @@
 # CSA-Blue-Pelican
 
-For AP Computer Science A, 2017-2018. Unofficial code to the Blue Pelican Java projects and units. 
+For AP Computer Science A, 2017-2018. Contains attempts at the Blue Pelican Java projects and units. 
 
 To those reading this : 
 
